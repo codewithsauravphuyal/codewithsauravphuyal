@@ -52,5 +52,5 @@ Hello World! I'm Saurav Phuyal, a passionate and independent web developer pursu
  <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="Donate with PayPal" style="height: 30px" />
 </a>
 <br>
-You can also help me by Donating from <img src="https://play-lh.googleusercontent.com/MRzMmiJAe0-xaEkDKB0MKwv1a3kjDieSfNuaIlRo750_EgqxjRFWKKF7xQyRSb4O95Y=w240-h480-rw" aria-hidden="true" alt="Donate with eSewa" itemprop="image" data-atf="false" data-iml="1792" style="height: 24px"> &  <img src="https://play-lh.googleusercontent.com/Xh_OlrdkF1UnGCnMN__4z-yXffBAEl0eUDeVDPr4UthOERV4Fll9S-TozSfnlXDFzw=w240-h480-rw" aria-hidden="true" alt="Donate with Khalti" itemprop="image" data-atf="false" data-iml="1792" style="height: 24px">
- &nbsp;&nbsp;9746984367
+You can also help me by Donating from <img src="https://play-lh.googleusercontent.com/MRzMmiJAe0-xaEkDKB0MKwv1a3kjDieSfNuaIlRo750_EgqxjRFWKKF7xQyRSb4O95Y=w240-h480-rw" aria-hidden="true" alt="Donate with eSewa" itemprop="image" data-atf="false" data-iml="1792" style="height: 24px"> eSewa &  <img src="https://play-lh.googleusercontent.com/Xh_OlrdkF1UnGCnMN__4z-yXffBAEl0eUDeVDPr4UthOERV4Fll9S-TozSfnlXDFzw=w240-h480-rw" aria-hidden="true" alt="Donate with Khalti" itemprop="image" data-atf="false" data-iml="1792" style="height: 24px"> Khalti
+ :&nbsp;9746984367
