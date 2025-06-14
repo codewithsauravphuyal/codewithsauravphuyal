@@ -44,13 +44,3 @@ Hello World! I'm Saurav Phuyal, a passionate and independent web developer pursu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=codewithsauravphuyal&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  <a href="https://liberapay.com/codewithsauravphuyal/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
-  &nbsp;&nbsp;
-<a href="https://www.paypal.com/donate/?hosted_button_id=L88FFXRTXS2ZY" target='_blank'>
- <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="Donate with PayPal" style="height: 30px" />
-</a>
-<br>
-You can also help me by Donating from <img src="https://play-lh.googleusercontent.com/MRzMmiJAe0-xaEkDKB0MKwv1a3kjDieSfNuaIlRo750_EgqxjRFWKKF7xQyRSb4O95Y=w240-h480-rw" aria-hidden="true" alt="Donate with eSewa" itemprop="image" data-atf="false" data-iml="1792" style="height: 24px"> eSewa &  <img src="https://play-lh.googleusercontent.com/Xh_OlrdkF1UnGCnMN__4z-yXffBAEl0eUDeVDPr4UthOERV4Fll9S-TozSfnlXDFzw=w240-h480-rw" aria-hidden="true" alt="Donate with Khalti" itemprop="image" data-atf="false" data-iml="1792" style="height: 24px"> Khalti
- :&nbsp;9746984367
