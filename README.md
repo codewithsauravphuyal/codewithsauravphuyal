@@ -1,5 +1,7 @@
 # 💫 About Me:
-Aspiring Full Stack Web Developer with a strong foundation in modern web technologies and application<br>development. Proficient in building scalable frontend and backend systems using JavaScript and TypeScriptbased frameworks, with solid experience in REST APIs, authentication, and database design. Known for strong<br>problem-solving skills, clean coding practices, and a continuous learning mindset.<br>
+I am Saurav Phuyal, a web developer with a strong interest in building practical and user-friendly applications. I work across both frontend and backend development, transforming ideas into functional features and complete solutions.<br>
+I focus on writing clear, maintainable code and continuously improving my skills through hands-on development and real-world problem solving. I am committed to learning new concepts, refining application structure, and improving development logic.<br>
+Driven by consistency, curiosity, and continuous practice, I aim to grow as a developer while building reliable and efficient web applications.<br>
 
 
 ## 🌐 Socials:
