@@ -180,11 +180,11 @@ const saurav: Developer = {
 
 ### 💬 My Dev Philosophy
 
-> *"Driven by consistency, curiosity, and continuous practice."*
->
-> *"The best time to start was yesterday. The second best time is right now."*
->
-> *"Don't just consume tutorials — build, break, and learn."*
+ *"Driven by consistency, curiosity, and continuous practice."*
+
+ *"The best time to start was yesterday. The second best time is right now."*
+
+ *"Don't just consume tutorials — build, break, and learn."*
 
 ---
 
