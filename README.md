@@ -9,6 +9,7 @@
 </a>
 
 <br/>
+<br/>
 
 <!-- Badges Row -->
 <p>
@@ -25,9 +26,6 @@
 
 ---
 
-<!-- About Section with Gif -->
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding"/>
-
 ## 🧑‍💻 About Me
 
 ```ts
@@ -39,8 +37,8 @@ const saurav: Developer = {
   email:       "codewithsauravphuyal@gmail.com",
   languages:   ["JavaScript", "TypeScript", "PHP"],
   frameworks:  ["React", "Next.js", "Node.js", "Express"],
-  databases:   ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-  cloud:       ["AWS", "GCP", "Cloudflare", "Vercel"],
+  databases:   ["MongoDB", "MySQL"],
+  cloud:       ["AWS", "Cloudflare", "Vercel"],
   philosophy:  "Clean code. Real solutions. Endless curiosity.",
   currentGoal: "Build impactful products & land a top dev role",
   funFact:     "I debug with coffee ☕ and stubbornness 💪",
@@ -50,45 +48,9 @@ const saurav: Developer = {
 - 🔭 Currently building **production-grade full-stack applications**
 - 🌱 Deep diving into **TypeScript, Prisma & Cloud Architecture**
 - 💬 Ask me about **React, Next.js, Node.js, REST APIs, PHP**
-- 🎯 2025 Goal: **Launch a SaaS product & contribute to Open Source**
+- 🎯 2026 Goal: **Launch a SaaS product & contribute to Open Source**
 - 🕐 Coding since age **17** — driven by passion, not just profession
 - ⚡ I turn ideas into running apps faster than most people make coffee
-
-<br clear="right"/>
-
----
-
-## ⏱️ Life Counter — Born June 26, 2001
-
-> *Every second I'm alive, I'm writing code (or thinking about it).*
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║           SAURAV'S LIFE IN NUMBERS  (as of April 2026)         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   🎂  Age            →   24 years, 9 months, 15 days            ║
-║   📅  Total Days     →   9,055 days on this planet              ║
-║   ⏰  Total Hours    →   217,320 hours of life                  ║
-║   ⏱️  Total Minutes  →   13,039,200 minutes lived               ║
-║   ⚡  Total Seconds  →   782,352,000 seconds & counting...      ║
-║   💻  Coding Years   →   ~7 years (since 2018, age 17)          ║
-║   ☕  Coffees Est.   →   ~2,555+ cups consumed                  ║
-║   🐛  Bugs Fixed     →   Countless (most after midnight)        ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-
-        "Every second is a new chance to write better code."
-```
-
-<div align="center">
-
-![Age](https://img.shields.io/badge/Age-24%20Years%20Old-a855f7?style=for-the-badge&logo=cake&logoColor=white)
-![Days Alive](https://img.shields.io/badge/Days%20Alive-9%2C055-302b63?style=for-the-badge&logo=clockify&logoColor=white)
-![Coding Since](https://img.shields.io/badge/Coding%20Since-2018-24243e?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Coffee](https://img.shields.io/badge/Coffee%20Consumed-2555%2B%20Cups-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-
-</div>
 
 ---
 
@@ -144,14 +106,6 @@ const saurav: Developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithsauravphuyal&show_icons=true&theme=radical&hide_border=false&border_radius=10&count_private=true&include_all_commits=true&rank_icon=github" height="185" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsauravphuyal&layout=compact&theme=radical&hide_border=false&border_radius=10&langs_count=8" height="185" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=codewithsauravphuyal&theme=radical&hide_border=false&border_radius=10&mode=daily" height="200" alt="GitHub Streak"/>
 </div>
 
@@ -165,28 +119,6 @@ const saurav: Developer = {
 
 ---
 
-## 🎯 2025 Developer Roadmap
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              SAURAV'S 2025 DEVELOPER ROADMAP                    ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ✅  Master React ecosystem — Query, Hook Form, Router          ║
-║  ✅  Deploy apps on Vercel, Render & Firebase                   ║
-║  ✅  Build production REST APIs with Express + MongoDB          ║
-║  🔄  Next.js App Router, Server Actions & RSC                   ║
-║  🔄  PostgreSQL + Prisma ORM in real projects                   ║
-║  🔄  TypeScript — full strict-mode adoption                     ║
-║  📌  AWS services: EC2, S3, Lambda, CloudFront                  ║
-║  📌  First Open Source contribution (PR merged!)                ║
-║  📌  Launch personal SaaS product                               ║
-║  🎯  Land a high-impact developer role                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║   ✅ Done  │  🔄 In Progress  │  📌 Planned  │  🎯 Dream       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## 🧠 Soft Skills & Developer Values
 
@@ -202,20 +134,6 @@ const saurav: Developer = {
 │  🚀  Execution Focused   — Ideas are cheap, shipping wins   │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## 🐍 Contribution Snake
-
-> To activate this animation, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithsauravphuyal/codewithsauravphuyal/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithsauravphuyal/codewithsauravphuyal/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/codewithsauravphuyal/codewithsauravphuyal/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
 
 ---
 
