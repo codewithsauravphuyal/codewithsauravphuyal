@@ -119,7 +119,7 @@ const saurav: Developer = {
 
 ---
 
-## 📈 Contribution Platane Snake
+## 🐍 Contribution Platane Snake
 
 ![snake gif](https://github.com/codewithsauravphuyal/codewithsauravphuyal/blob/output/github-snake-dark.svg)
  
