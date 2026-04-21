@@ -119,6 +119,16 @@ const saurav: Developer = {
 
 ---
 
+---
+
+## 📈 Contribution Platane Snake
+
+<div align="center">
+  ![snake gif](https://github.com/codewithsauravphuyal/codewithsauravphuyal/blob/output/github-snake-dark.svg)
+  
+</div>
+
+---
 
 ## 🧠 Soft Skills & Developer Values
 
