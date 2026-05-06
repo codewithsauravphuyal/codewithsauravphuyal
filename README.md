@@ -108,7 +108,6 @@ const saurav: Developer = {
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=codewithsauravphuyal&theme=radical&hide_border=false&border_radius=10&mode=daily" height="200" alt="GitHub Streak"/>
 </div>
----
 
 <div align="center">
 <img src="https://github-readme-stats.shion.dev/api?username=codewithsauravphuyal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" alt="GitHub Streak"/>
