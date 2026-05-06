@@ -105,10 +105,16 @@ const saurav: Developer = {
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=codewithsauravphuyal&theme=radical&hide_border=false&border_radius=10&mode=daily" height="200"/>
-  <img src="https://github-readme-stats.shion.dev/api?username=codewithsauravphuyal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=codewithsauravphuyal&theme=radical&hide_border=false&border_radius=10&mode=daily" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=codewithsauravphuyal&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
