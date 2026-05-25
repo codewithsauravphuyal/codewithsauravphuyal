@@ -205,4 +205,5 @@ const saurav: Developer = {
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" width="100%"/>
 
+[![committers.top badge](https://user-badge.committers.top/nepal/USERNAME.svg)](https://user-badge.committers.top/nepal/codewithsauravphuyal)
 </div>
