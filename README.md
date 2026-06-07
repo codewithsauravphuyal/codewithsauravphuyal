@@ -151,8 +151,6 @@ const saurav: Developer = {
 
 ## 📺 YouTube — Mr. Code Dreamer
 
-> I share **web dev tutorials**, real project builds & coding journeys.
-
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/Subscribe%20Now-%40Mrcodedreamer-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Mrcodedreamer)
