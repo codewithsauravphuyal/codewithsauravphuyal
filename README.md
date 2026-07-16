@@ -32,8 +32,7 @@
 const saurav: Developer = {
   name:        "Saurav Phuyal",
   role:        "Full Stack Web Developer",
-  location:    "Biratnagar, Nepal 🇳🇵",
-  birthday:    "June 26, 2001",
+  location:    "Sundarharaincha 03, Gachhiya, Morang, Nepal 🇳🇵",
   email:       "codewithsauravphuyal@gmail.com",
   languages:   ["JavaScript", "TypeScript", "PHP"],
   frameworks:  ["React", "Next.js", "Node.js", "Express"],
