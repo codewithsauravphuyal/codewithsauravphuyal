@@ -117,14 +117,6 @@ const saurav: Developer = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithsauravphuyal&bg_color=0d1117&color=a855f7&line=e040fb&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🐍 Contribution Platane Snake
 
 ![snake gif](https://github.com/codewithsauravphuyal/codewithsauravphuyal/blob/output/github-snake-dark.svg)
